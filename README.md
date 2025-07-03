@@ -6,7 +6,7 @@ Email Me 👉 ✉️ **aishwaryawasnik24@gmail.com** For Collaboration/Project o
 
 # Skills and Expertise
 
-Data Analysis: Proficient in data cleaning, transformation, and analysis using Python (Pandas, NumPy).
+## Data Analysis: Proficient in data cleaning, transformation, and analysis using Python (Pandas, NumPy).
 Machine Learning: Experience with supervised and unsupervised learning techniques, using libraries such as Scikit-learn and TensorFlow.
 Data Visualization: Skilled in creating insightful visualizations with tools like Matplotlib, Seaborn, and Tableau.
 Databases: Knowledgeable in SQL for data extraction and manipulation.
