@@ -1,3 +1,11 @@
+💫Hello!👋 I'm Aishwarya
+A passionate Data Analyst with a keen interest in turning data into actionable insights. With a strong foundation in statistics,MySql and data visualization, I enjoy tackling complex problems and deriving meaningful conclusions from data.
+
+Skills and Expertise
+Data Analysis: Proficient in data cleaning, transformation, and analysis using Python (Pandas, NumPy).
+Data Visualization: Skilled in creating insightful visualizations with tools like Matplotlib, Seaborn, and PoweBI.
+Databases: Knowledgeable in SQL for data extraction and manipulation.
+Communication: Strong ability to communicate technical results to non-technical stakeholders through compelling stories and visualizations.
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/aishwarya-wasnik) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/aishwarya-wasnik) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:aishwaryawasnik24@gmail.com) 
