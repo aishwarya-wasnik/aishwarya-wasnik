@@ -41,6 +41,7 @@ I'm always open to new opportunities and collaborations. If you're interested in
 Let's collaborate and drive impactful outcomes together!
 
 **LinkedIn:** https://www.linkedin.com/in/aishwarya-wasnik/
+
 **Email:** aishwaryawasnik24@gmail.com
 
 Feel free to reach out if you have any questions, suggestions, or just want to connect!
