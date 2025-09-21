@@ -7,9 +7,13 @@ A passionate Data Analyst with a keen interest in turning data into actionable i
 ### SQL Expertise
 
 **Basic Syntax:** Familiar with SQL syntax for data retrieval, manipulation, and analysis.
+
 **Advanced Techniques:** Experienced in joins, subqueries, aggregation, filtering, sorting, window functions, transformation, validation, cleaning, and performance optimization.
+
 **Stored Procedures and Functions:** Proficient in writing and optimizing stored procedures and user-defined functions.
+
 **Database Design:** Skilled in designing efficient database schemas, including working with views and indexes.
+
 **Platforms and Practice:** Extensively practiced on platforms like LeetCode, W3Schools, SQLBolt, SQLZoo, DataLemur, and HackerRank. Additionally, worked on personal projects using SQL, drawing meaningful insights from data.
 
 ### Power BI
