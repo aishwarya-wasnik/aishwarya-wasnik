@@ -2,23 +2,38 @@
 
 A passionate Data Analyst with a keen interest in turning data into actionable insights. With a strong foundation in Advance Excel,Mysql and data visualization, I enjoy tackling complex problems and deriving meaningful conclusions from data.
 
-Email Me 👉 ✉️ **aishwaryawasnik24@gmail.com** For Collaboration/Project or Anything Else.
+## Skills
+SQL Expertise
+Basic Syntax: Familiar with SQL syntax for data retrieval, manipulation, and analysis.
+Advanced Techniques: Experienced in joins, subqueries, aggregation, filtering, sorting, window functions, transformation, validation, cleaning, and performance optimization.
+Stored Procedures and Functions: Proficient in writing and optimizing stored procedures and user-defined functions.
+Database Design: Skilled in designing efficient database schemas, including working with views and indexes.
+Platforms and Practice: Earned a 5-star ranking on HackerRank for SQL and a Badge from LeetCode. Extensively practiced on platforms like LeetCode, W3Schools, SQLBolt, SQLZoo, DataLemur, and HackerRank. Additionally, worked on personal projects using SQL, drawing meaningful insights from data.
+Power BI
+Visualization and Analysis: Hands-on experience in data cleaning, visualization, ETL, and dashboard creation using Power BI.
+Proficient in DAX and Power Query: Skilled in writing complex queries and calculations using DAX and Power Query.
+Python
+Data Analysis and Manipulation: Proficient in using pandas,numpy for data manipulation and analysis tasks.
+Regular Expressions: Experience with data wrangling using regular expressions.
+Matplotlip,Seaborn : For visualization
+Excel
+Data Analysis and Visualization: Familiar with various Excel functionalities, including data cleaning, formatting, formulas, charts, pivot tables, and data validation.
+Satatistical Analysis :
+Descriptive Statistics : Descriptive Statistics: Understanding and summarizing the main features of a dataset, such as mean, median, mode, variance, and standard deviation.
+Hypothesis Testing: Formulating and testing hypotheses about the relationships between variables in a dataset, using techniques such as t-tests, chi-square tests, ANOVA, and correlation analysis.
+Inferential Statistics: Making inferences and predictions about a population based on sample data, using techniques such as hypothesis testing, confidence intervals, and regression analysis.
+## Projects
+SELLING PRICE OF USED CARS
+RETAIL CUSTOMER CHURN ANALYSIS
 
-## Skills and Expertise
+This repository contains a collection of my projects, including personal and professional endeavors. Each project demonstrates my skills and expertise in data analysis, visualization, and database management.
 
-- **Data Analysis**: Proficient in data cleaning, transformation, and analysis using Python (Pandas, NumPy).
-- **Data Visualization**: Skilled in creating insightful visualizations with tools like Power Bi, Matplotlib, Seaborn, and Tableau.
-- **Databases**: Knowledgeable in SQL for data extraction and manipulation.
-- **Communication**: Strong ability to communicate technical results to non-technical stakeholders through compelling stories and visualizations.
+Let's Connect
+I'm always open to new opportunities and collaborations. If you're interested in discussing potential projects, sharing insights, or connecting with me, feel free to reach out via LinkedIn or email.
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/aishwarya_wasnik) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/public-profile/settings?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_self_edit_contact-info%3Bxy1Iok7DQH6odP5%2BbFL6HA%3D%3D) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:aishwaryawasnik24@gmail.com)
+Let's collaborate and drive impactful outcomes together!
 
-# 💻 Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=aishwarya-wasnik&theme=transparent&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=aishwarya-wasnik&theme=transparent&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=aishwarya-wasnik&theme=transparent&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+LinkedIn: Pallavi Singh's LinkedIn Profile
+Email: singhpallavi0221@gmail.com
 
-Feel free to explore my repositories to see some of the projects I've worked on. I'm always open to feedback, collaboration, and new opportunities. Let's connect and create something amazing together!
+Feel free to reach out if you have any questions, suggestions, or just want to connect!
