@@ -31,7 +31,7 @@ A passionate Data Analyst with a keen interest in turning data into actionable i
 ## Projects
 - [SELLING PRICE OF USED CARS ](https://github.com/pallavisingh02/Projects/tree/main/Analyzing_selling_price_of_used_cars)
 - [RETAIL CUSTOMER CHURN ANALYSIS ](https://github.com/pallavisingh02/Projects/tree/main/Online_Customer_Churn)
-- 
+  
 This repository contains a collection of my projects, including personal and professional endeavors. Each project demonstrates my skills and expertise in data analysis, visualization, and database management.
 
 ## Let's Connect
