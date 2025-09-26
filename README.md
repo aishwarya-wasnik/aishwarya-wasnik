@@ -1,6 +1,6 @@
 # 💫 Hello! 👋, I'm Aishwarya
 
-A passionate Data Analyst with a keen interest in turning data into actionable insights. With a strong foundation in Advance Excel,Mysql and data visualization, I enjoy tackling complex problems and deriving meaningful conclusions from data.
+A passionate Data Enthusiast with a strong interest in transforming raw data into actionable insights. I enjoy solving business problems through analytics, building interactive dashboards, and applying statistical methods to uncover trends and patterns.
 
 ## Skills
 
